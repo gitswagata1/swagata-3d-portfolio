@@ -22,3 +22,5 @@ Thumbs.db
 
 # local backups
 index.standalone.backup.html
+
+.vercel

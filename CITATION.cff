@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Swagata Banerjee 3D Portfolio"
+abstract: "An interactive 3D developer portfolio built with React, Vite and react-three-fiber, usable as a template."
+type: software
+authors:
+  - family-names: "Banerjee"
+    given-names: "Swagata"
+repository-code: "https://github.com/gitswagata1/swagata-3d-portfolio"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-16"
+keywords:
+  - portfolio
+  - react
+  - threejs
+  - template

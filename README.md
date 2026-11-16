@@ -9,6 +9,7 @@ smooth scroll-reveal motion.
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-r169-000000?logo=threedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+[![CI](https://github.com/gitswagata1/swagata-3d-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/gitswagata1/swagata-3d-portfolio/actions/workflows/ci.yml)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
@@ -23,6 +24,9 @@ smooth scroll-reveal motion.
 - [Customising the content](#customising-the-content)
 - [Performance](#performance)
 - [Deployment](#deployment)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Citation](#citation)
 - [License](#license)
 
 ## Overview
@@ -122,6 +126,23 @@ unchanged vendor code.
 The project deploys to [Vercel](https://vercel.com) with zero configuration. Vercel
 detects Vite (build command `vite build`, output directory `dist`). Import the
 repository in the Vercel dashboard to get automatic deploys on every push.
+
+## Roadmap
+
+Planned work, ideas for taking the project further and open research questions are in
+[ROADMAP.md](ROADMAP.md). Good first tasks are labelled
+[`good first issue`](https://github.com/gitswagata1/swagata-3d-portfolio/labels/good%20first%20issue).
+
+## Contributing
+
+Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the
+[Code of Conduct](CODE_OF_CONDUCT.md) first. To report a vulnerability, follow
+[SECURITY.md](SECURITY.md).
+
+## Citation
+
+If you use this project in research or a product, you can cite it using
+[CITATION.cff](CITATION.cff) (GitHub shows a "Cite this repository" button).
 
 ## License
 

@@ -5,9 +5,6 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   base: "/",
   plugins: [react(), tailwindcss()],
-  // Keep paths as-is so the dev server works when launched through a
-  // directory junction (the workspace's 3d-portfolio -> "SB Website 3D").
-  resolve: { preserveSymlinks: true },
   server: { fs: { strict: false } },
   build: {
     chunkSizeWarningLimit: 800,

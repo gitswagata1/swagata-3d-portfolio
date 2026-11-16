@@ -24,3 +24,7 @@ Thumbs.db
 index.standalone.backup.html
 
 .vercel
+
+# Local tooling
+.claude/
+.snakeflow/
